@@ -31,5 +31,6 @@ The prompt templates that we applied to generate prompts for our experiments, in
 
 ## Requirements
 
-Dependencies are listed in `requirements.txt`. Install them via `pip install -r requirements.txt`.
+* Some of the dependencies works best with python 3.11 or later. Preferrably Python 3.12
+* Dependencies are listed in `requirements.txt`. Install them via `pip install -r requirements.txt`.
 
